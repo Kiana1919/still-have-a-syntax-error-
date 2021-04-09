@@ -31,7 +31,7 @@ def mainProgram():
             elif choice == "2":
                 addABunch()
             elif choice == "3":
-                indexValues
+                indexValue
             elif choice == "4":
                 sortList(myList)
             elif choice == "5":
